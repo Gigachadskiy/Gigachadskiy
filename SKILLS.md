@@ -20,14 +20,14 @@
 | 🟩 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟦 higher order       | 🟩 Map              | 🟩 unreachable code  |
-| 🟩 Object            | 🟩 logical operators  | 🟦 callback           | 🟨 Set              | 🟩 duplicate code    |
+| 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟨 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟩 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟩 return early      |
 | 🟨 generator         | 🟩 switch             | ⬜ compose            | ⬜️ Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | ⬜️ memoize            | 🟨 string parsing   | ⬜️ prettier          |
-| 🟨 call, bind, apply |                       | 🟦 factory            | 🟨 timers           | 🟩 unittest          |
-| 🟩 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟦 wrapper            | 🟩 RegExp           | 🟩 github            |
+| 🟨 call, bind, apply |                       | 🟩 factory            | 🟨 timers           | 🟩 unittest          |
+| 🟩 Array             |                       | 🟩 pool               | 🟨 EventEmitter     | 🟩 git               |
+| 🟩 instanceof        |                       | 🟩 wrapper            | 🟩 RegExp           | 🟩 github            |
 | 🟨 ...spread         |                       | 🟨 default parameters | 🟨 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
@@ -42,12 +42,12 @@
 | 🟩 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟩 Getters, Setters   | 🟦 Doubly list       |                          |
-| 🟦 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
+| 🟩 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟩 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
-| 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
+| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
@@ -93,7 +93,7 @@
 | ⬜ Addons            | 🟦 Inversion of control      | ⬜ SSE            | 🟦 Transform     | 🟦 Dependencies      |
 | ⬜ N-API             | 🟦 Dependency injection      | ⬜ HTTP/3 (QUIC)  | ⬜ back pressure |                      |
 | ⬜ Webassembly       | 🟦 GRASP for JS and Node.js  | ⬜ Long polling   | 🟦 Buffer        |                      |
-| 🟦 npm               | 🟦 SOLID for JS and Node.js  | 🟦 REST           | 🟦 Console       |                      |
+| 🟦 npm               | 🟩 SOLID for C#              | 🟦 REST           | 🟦 Console       |                      |
 | 🟦 node_modules      | 🟦 GoF for JS and Node.js    | 🟦 RPC            | 🟦 Inspector     |                      |
 | 🟦 package.json      | ⬜ Distributed systems       | 🟦 Routing        | 🟦 Reliability   |                      |
 | 🟦 vm isolation      | ⬜ Highload applications     | 🟦 IP sticky      | 🟦 Quality       |                      |
