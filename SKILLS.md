@@ -2,6 +2,7 @@
 
 ⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
 
+## Soon, C# skills will be added
 ## Fundamental concepts
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
