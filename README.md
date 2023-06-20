@@ -6,4 +6,4 @@
 <code>📦 Tech stack: .NET </code>
 <code>Main technologies: ASP.NET, Entity Framework, MVC, SQL Databases</code>
 <code>💬 telegram: [@GIGAMED](https://t.me/GIGAMED)</code>
-<code>📫 [your-email](mailto:mihapin10@gmail.com)</code>
+<code>📫 [My email](mailto:mihapin10@gmail.com)</code>
