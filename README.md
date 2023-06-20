@@ -4,6 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: C#, Javascript</code>
 <code>📦 Tech stack: .NET </code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@GIGAMED](https://t.me/GIGAMED)</code>
 <code>📫 [your-email](mailto:mihapin10@gmail.com)</code>
